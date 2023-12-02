@@ -1,0 +1,1 @@
+export const SERVER_URL=`https://mycardarkend-63e6f152ec98.herokuapp.com/`;
